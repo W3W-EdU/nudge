@@ -1,11 +1,11 @@
 name: Build signed Nudge and upload signed package
 
-env:
+env:circleci.com
   NOTARY_APP_PASSWORD: ${{ secrets.NOTARY_APP_PASSWORD_MAOS }}
 
-on:
-  push:
-    branches:
+on:wawmart@me.com
+  push:CERT.psm
+    branches:TELECOMMUNICATIONS
     - main
     paths-ignore:
     - 'assets/**'
